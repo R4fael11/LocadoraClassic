@@ -1,0 +1,6 @@
+C:\Users\PROFESSOR\source\repos\LocadoraClassic\LocadoraClassic.VO\bin\Debug\LocadoraClassic.VO.dll
+C:\Users\PROFESSOR\source\repos\LocadoraClassic\LocadoraClassic.VO\bin\Debug\LocadoraClassic.VO.pdb
+C:\Users\PROFESSOR\source\repos\LocadoraClassic\LocadoraClassic.VO\obj\Debug\LocadoraClassic.VO.csproj.AssemblyReference.cache
+C:\Users\PROFESSOR\source\repos\LocadoraClassic\LocadoraClassic.VO\obj\Debug\LocadoraClassic.VO.csproj.CoreCompileInputs.cache
+C:\Users\PROFESSOR\source\repos\LocadoraClassic\LocadoraClassic.VO\obj\Debug\LocadoraClassic.VO.dll
+C:\Users\PROFESSOR\source\repos\LocadoraClassic\LocadoraClassic.VO\obj\Debug\LocadoraClassic.VO.pdb
